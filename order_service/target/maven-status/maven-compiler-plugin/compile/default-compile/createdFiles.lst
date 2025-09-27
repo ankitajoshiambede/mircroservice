@@ -1,8 +1,0 @@
-com\microservicedemoproject\order_service\model\Order.class
-com\microservicedemoproject\order_service\dto\OrderLineItemsDto.class
-com\microservicedemoproject\order_service\OrderServiceApplication.class
-com\microservicedemoproject\order_service\repository\OrderRepository.class
-com\microservicedemoproject\order_service\controller\OrderController.class
-com\microservicedemoproject\order_service\service\OrderService.class
-com\microservicedemoproject\order_service\dto\OrderRequest.class
-com\microservicedemoproject\order_service\model\OrderLineItems.class
